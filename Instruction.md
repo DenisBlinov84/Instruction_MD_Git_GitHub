@@ -1,6 +1,12 @@
 # Инструкция по работе с Git
 
-## Начальные настройки и установки
+## Установка VScode и Git
+https://code.visualstudio.com/download
+
+https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git
+
+
+## Начальные настройки
 
 *git config --global user.name "Ваше имя английскими буквами" например: Denis*
 
@@ -98,6 +104,10 @@ _текст может быть выделен курсивом и при это
 * Отправляем свою версию в свой GitHub
 * На сайте GitHub нажимаем pull request
 
+## Как внести изменения, созданые после копирования репозитория
+* Заходим на удалённый репозиторий GitHub
+* Нажимаем Fetch Upstream
+* Нажимаем Fetch and merge
 
 
 
